@@ -1,0 +1,26 @@
+#################################################################
+#################################################################
+##   FacebookTools					       ##
+##   Tools for managing your facebook account using FBConsole  ##
+#################################################################
+##							       ##
+##   All files are Python scripts, You MUST have python!       ##
+##   							       ##
+##   Usage:						       ##
+##   							       ##
+## DelComment.py CommentID				       ##
+##				                               ##
+## GrabPics.py			 			       ##
+## <Unimplemented at the moment> 			       ##
+##					                       ##
+## ListAllStatusMsg.py 					       ##
+## <Uses the current authenticated users ID>		       ##
+##							       ##
+## PostPicture.py 'fully/qualified/directory/and/filename.jpg  ##
+##							       ##
+## PostStatusMsg.py 'Status message'			       ##
+##							       ##
+#################################################################
+#################################################################
+
+
