@@ -2,6 +2,10 @@
 #################################################################
 ##   FacebookTools					       ##
 ##   Tools for managing your facebook account using FBConsole  ##
+##   							       ##
+##   Dependencies:					       ##
+##   pcardune's fbconsole				       ##
+##   https://github.com/facebook/fbconsole		       ##
 #################################################################
 ##							       ##
 ##   All files are Python scripts, You MUST have python!       ##
